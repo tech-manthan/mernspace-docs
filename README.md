@@ -11,3 +11,5 @@
 4.  [Refresh Tokens](https://auth0.com/blog/refresh-tokens-what-are-they-and-when-to-use-them/)
 
 5.  [Type Orm](./typeorm/doc1.md)
+
+6.  [Pg Admin Installation Guide](./pg-admin/doc1.md)
