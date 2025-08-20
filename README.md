@@ -13,3 +13,5 @@
 5.  [Type Orm](./typeorm/doc1.md)
 
 6.  [Pg Admin Installation Guide](./pg-admin/doc1.md)
+
+7.  [Production Docker File](./node-app-containerization/doc2.md)
