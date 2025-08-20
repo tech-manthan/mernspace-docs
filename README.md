@@ -15,3 +15,5 @@
 6.  [Pg Admin Installation Guide](./pg-admin/doc1.md)
 
 7.  [Production Docker File](./node-app-containerization/doc2.md)
+
+8.  [Github Workflows](./github-workflows/doc1.md)
