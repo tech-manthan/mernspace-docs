@@ -17,3 +17,5 @@
 7.  [Production Docker File](./node-app-containerization/doc2.md)
 
 8.  [Github Workflows](./github-workflows/doc1.md)
+
+9. [Code Review & Merge](./code-review-merge/doc1.md)
