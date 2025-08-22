@@ -19,3 +19,5 @@
 8.  [Github Workflows](./github-workflows/doc1.md)
 
 9. [Code Review & Merge](./code-review-merge/doc1.md)
+
+10. [Admin UI](./admin-ui/doc1.md)
